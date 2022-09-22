@@ -7,7 +7,7 @@
 
 ## Overview
 ### Description
-We aim to create a next-gen dating application that revolutionises the online dating scenario for Gen-z. Our dating app will add the feature of ‘auctioning’ your friends/family on the app, as a fun social component.
+Aimed to create a next-gen dating application that revolutionises the online dating scenario for Gen-z. The dating app will add the feature of ‘auctioning’ your friends/family on the app, as a fun social component.
 
 ### App Evaluation
 - **Category:** Social Networking 
@@ -22,15 +22,9 @@ We aim to create a next-gen dating application that revolutionises the online da
 
 **Required Must-have Stories**
 
-- [x] User logs in to access previous chats and preference settings
-- [x] User can view posts from other users with dating profiles.
-- [ ] User can like or dislike a post to show interest
-- [ ] User can utilize a private chat feature to communicate with others
-- [ ] Settings (Accesibility, Notification, General, etc.)
+-  User logs in to access previous chats and preference settings
+-  User can view posts from other users with dating profiles.
 
-**Optional Nice-to-have Stories**
-
-- [ ] Most Favorite meme
 
 ### 2. Screen Archetypes
 
